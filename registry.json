@@ -1,0 +1,498 @@
+[
+  {
+    "id": "apify-mcp",
+    "name": "Apify MCP Server",
+    "description": "Web scraping and automation platform for extracting data from websites",
+    "category": "data-analysis",
+    "website": "mcp.apify.com",
+    "endpoint": "https://mcp.apify.com/api/mcp"
+  },
+  {
+    "id": "asana-mcp",
+    "name": "Asana MCP Server",
+    "description": "Project management and team collaboration platform for tracking tasks and workflows",
+    "category": "productivity",
+    "website": "mcp.asana.com",
+    "endpoint": "https://mcp.asana.com/sse"
+  },
+  {
+    "id": "atlassian-mcp",
+    "name": "Atlassian MCP Server",
+    "description": "Access Jira, Confluence, Bitbucket and other Atlassian tools for development teams",
+    "category": "development",
+    "website": "mcp.atlassian.com",
+    "endpoint": "https://mcp.atlassian.com/v1/sse"
+  },
+  {
+    "id": "audioscrape-mcp",
+    "name": "Audioscrape MCP Server",
+    "description": "RAG-as-a-Service platform for audio transcription, analysis, and intelligent search",
+    "category": "ai-ml",
+    "website": "mcp.audioscrape.com",
+    "endpoint": "https://mcp.audioscrape.com"
+  },
+  {
+    "id": "canva-mcp",
+    "name": "Canva MCP Server",
+    "description": "Design platform for creating graphics, presentations, social media content and more",
+    "category": "productivity",
+    "website": "mcp.canva.com",
+    "endpoint": "https://mcp.canva.com/mcp"
+  },
+  {
+    "id": "claude-desktop-mcp",
+    "name": "Claude Desktop MCP Server",
+    "description": "Local MCP server integration for Claude Desktop application",
+    "category": "productivity",
+    "website": "",
+    "endpoint": "claude://settings/modelcontextprotocol"
+  },
+  {
+    "id": "cloudflare-observability-mcp",
+    "name": "Cloudflare Observability MCP Server",
+    "description": "Monitor and analyze performance, security, and traffic on Cloudflare infrastructure",
+    "category": "monitoring",
+    "website": "observability.mcp.cloudflare.com",
+    "endpoint": "https://observability.mcp.cloudflare.com/sse"
+  },
+  {
+    "id": "cloudflare-workers-mcp",
+    "name": "Cloudflare Workers MCP Server",
+    "description": "Deploy and manage serverless functions on Cloudflare's global edge network",
+    "category": "cloud",
+    "website": "bindings.mcp.cloudflare.com",
+    "endpoint": "https://bindings.mcp.cloudflare.com/sse"
+  },
+  {
+    "id": "composio-rube",
+    "name": "Rube",
+    "description": "It connects AI chat tools to more than 500 business and productivity applications",
+    "category": "productivity",
+    "website": "composio.dev",
+    "endpoint": "https://rube.composio.dev/mcp"
+  },
+  {
+    "id": "dappier-mcp",
+    "name": "Dappier MCP Server",
+    "description": "Real-time AI processing and machine learning model deployment platform",
+    "category": "ai-ml",
+    "website": "api.dappier.com",
+    "endpoint": "https://api.dappier.com/mcp/rtai"
+  },
+  {
+    "id": "discord-mcp",
+    "name": "Discord MCP Server",
+    "description": "Community chat platform with voice, video, and text communication for gaming and teams",
+    "category": "communication",
+    "website": "mcp.discord.com",
+    "endpoint": "https://mcp.discord.com/api/v1"
+  },
+  {
+    "id": "figma-mcp",
+    "name": "Figma MCP Server",
+    "description": "Collaborative design tool for creating user interfaces, prototypes, and design systems",
+    "category": "productivity",
+    "website": "www.figma.com",
+    "endpoint": "https://www.figma.com/api/mcp"
+  },
+  {
+    "id": "find-a-domain-mcp",
+    "name": "Find-A-Domain MCP Server",
+    "description": "Domain name search and availability checking service for finding the perfect domain",
+    "category": "productivity",
+    "website": "api.findadomain.dev",
+    "endpoint": "https://api.findadomain.dev/mcp"
+  },
+  {
+    "id": "github-app-mcp",
+    "name": "GitHub App MCP Server",
+    "description": "GitHub integration for app-level access to repositories and organizations",
+    "category": "development",
+    "website": "api.github.com",
+    "endpoint": "https://api.github.com/mcp/app/sse"
+  },
+  {
+    "id": "github-mcp",
+    "name": "GitHub MCP Server",
+    "description": "Complete GitHub integration for MCP - manage repos, issues, PRs, and more",
+    "category": "development",
+    "website": "https://anthropic.com",
+    "endpoint": "wss://github-mcp.modelcontextprotocol.io"
+  },
+  {
+    "id": "google-calendar-mcp",
+    "name": "Google Calendar MCP Server",
+    "description": "Manage events, meetings, and schedules with Google Calendar integration",
+    "category": "productivity",
+    "website": "calendar.google.com",
+    "endpoint": "https://calendar.google.com/api/mcp/mcp"
+  },
+  {
+    "id": "google-docs-mcp",
+    "name": "Google Docs MCP Server",
+    "description": "Create and collaborate on documents with Google Docs real-time editing",
+    "category": "productivity",
+    "website": "docs.google.com",
+    "endpoint": "https://docs.google.com/api/mcp/mcp"
+  },
+  {
+    "id": "google-drive-mcp",
+    "name": "Google Drive MCP Server",
+    "description": "Cloud storage and file synchronization service with collaborative features",
+    "category": "cloud",
+    "website": "drive.google.com",
+    "endpoint": "https://drive.google.com/api/mcp/mcp"
+  },
+  {
+    "id": "google-gmail-mcp",
+    "name": "Gmail MCP Server",
+    "description": "Email service with advanced search, filtering, and organization capabilities",
+    "category": "communication",
+    "website": "gmail.google.com",
+    "endpoint": "https://gmail.google.com/api/mcp/mcp"
+  },
+  {
+    "id": "google-sheets-mcp",
+    "name": "Google Sheets MCP Server",
+    "description": "Spreadsheet application for data analysis and collaborative number crunching",
+    "category": "productivity",
+    "website": "sheets.google.com",
+    "endpoint": "https://sheets.google.com/api/mcp/mcp"
+  },
+  {
+    "id": "gusto-mcp",
+    "name": "Gusto MCP Server",
+    "description": "Payroll, benefits, and HR management platform for small to medium businesses",
+    "category": "payments",
+    "website": "api.gusto.com",
+    "endpoint": "https://api.gusto.com/mcp/sse"
+  },
+  {
+    "id": "hubspot-mcp",
+    "name": "HubSpot MCP Server",
+    "description": "Inbound marketing, sales, and CRM platform for growing businesses",
+    "category": "productivity",
+    "website": "app.hubspot.com",
+    "endpoint": "https://app.hubspot.com/mcp/v1/http"
+  },
+  {
+    "id": "javadocs-mcp",
+    "name": "Javadocs.dev",
+    "description": "Browse and search Java, Kotlin, and Scala library documentation from Maven Central",
+    "category": "development",
+    "website": "javadocs.dev",
+    "endpoint": "https://www.javadocs.dev/mcp"
+  },
+  {
+    "id": "kiwi-flight-search",
+    "name": "Kiwi.com Flight Search MCP Server",
+    "description": "Search and book flights directly from your AI assistant using Kiwi.com's flight search engine",
+    "category": "productivity",
+    "website": "kiwi.com",
+    "endpoint": "https://mcp.kiwi.com"
+  },
+  {
+    "id": "linear-mcp",
+    "name": "Linear MCP Server",
+    "description": "Project management and issue tracking for software teams",
+    "category": "productivity",
+    "website": "https://linear.app/",
+    "endpoint": "wss://linear-mcp.mcp.io"
+  },
+  {
+    "id": "mercadolibre-mcp",
+    "name": "Mercado Libre MCP Server",
+    "description": "Latin America's largest e-commerce and payments ecosystem",
+    "category": "payments",
+    "website": "api.mercadolibre.com",
+    "endpoint": "https://api.mercadolibre.com/mcp/sse"
+  },
+  {
+    "id": "meta-ads-mcp",
+    "name": "Meta Ads MCP Server",
+    "description": "Manage and analyze Meta (Facebook) Ads campaigns through MCP",
+    "category": "data-analysis",
+    "website": "pipeboard.co",
+    "endpoint": "https://mcp.pipeboard.co/meta-ads-mcp"
+  },
+  {
+    "id": "microsoft-onedrive-mcp",
+    "name": "Microsoft OneDrive MCP Server",
+    "description": "Cloud storage service integrated with Microsoft Office and Windows ecosystem",
+    "category": "cloud",
+    "website": "api.onedrive.com",
+    "endpoint": "https://api.onedrive.com/mcp/sse"
+  },
+  {
+    "id": "microsoft-teams-mcp",
+    "name": "Microsoft Teams MCP Server",
+    "description": "Business communication platform with chat, video meetings, and file collaboration",
+    "category": "communication",
+    "website": "api.teams.microsoft.com",
+    "endpoint": "https://api.teams.microsoft.com/mcp/mcp"
+  },
+  {
+    "id": "mixpanel-mcp",
+    "name": "Mixpanel MCP Server",
+    "description": "Product analytics platform for tracking user interactions and behavior",
+    "category": "data-analysis",
+    "website": "mcp.mixpanel.com",
+    "endpoint": "https://mcp.mixpanel.com/mcp"
+  },
+  {
+    "id": "monday-mcp",
+    "name": "Monday.com MCP Server",
+    "description": "Work operating system for managing projects, workflows, and team collaboration",
+    "category": "productivity",
+    "website": "api.monday.com",
+    "endpoint": "https://api.monday.com/mcp/sse"
+  },
+  {
+    "id": "needle-mcp",
+    "name": "Needle MCP Server",
+    "description": "RAG-as-a-service platform for semantic search and document understanding",
+    "category": "ai-ml",
+    "website": "mcp.needle-ai.com",
+    "endpoint": "https://mcp.needle-ai.com/mcp"
+  },
+  {
+    "id": "notion-mcp",
+    "name": "Notion MCP Server",
+    "description": "All-in-one workspace for notes, docs, and collaboration",
+    "category": "productivity",
+    "website": "https://notion.so/",
+    "endpoint": "wss://notion-mcp.mcp.io"
+  },
+  {
+    "id": "openai-mcp",
+    "name": "OpenAI MCP Server",
+    "description": "Access GPT models, DALL-E, Whisper, and other OpenAI AI capabilities via MCP",
+    "category": "ai-ml",
+    "website": "https://openai.com/",
+    "endpoint": "wss://openai-mcp.mcp.io"
+  },
+  {
+    "id": "openzeppelin-cairo-mcp",
+    "name": "OpenZeppelin Cairo MCP Server",
+    "description": "Smart contract library for Cairo and StarkNet blockchain development",
+    "category": "development",
+    "website": "mcp.openzeppelin.com",
+    "endpoint": "https://mcp.openzeppelin.com/contracts/cairo/mcp"
+  },
+  {
+    "id": "openzeppelin-solidity-mcp",
+    "name": "OpenZeppelin Solidity MCP Server",
+    "description": "Secure smart contract library for Ethereum and EVM-compatible blockchains",
+    "category": "development",
+    "website": "mcp.openzeppelin.com",
+    "endpoint": "https://mcp.openzeppelin.com/contracts/solidity/mcp"
+  },
+  {
+    "id": "paypal-mcp",
+    "name": "PayPal MCP Server",
+    "description": "Online payment system for secure money transfers and e-commerce transactions",
+    "category": "payments",
+    "website": "api.paypal.com",
+    "endpoint": "https://api.paypal.com/mcp/v1/sse"
+  },
+  {
+    "id": "perplexity-mcp",
+    "name": "Perplexity MCP Server",
+    "description": "AI-powered search engine with real-time web information retrieval",
+    "category": "ai-ml",
+    "website": "api.perplexity.ai",
+    "endpoint": "https://api.perplexity.ai/mcp/sse"
+  },
+  {
+    "id": "pinterest-mcp",
+    "name": "Pinterest MCP Server",
+    "description": "Visual discovery platform for finding ideas, recipes, style inspiration and more",
+    "category": "productivity",
+    "website": "api.pinterest.com",
+    "endpoint": "https://api.pinterest.com/mcp/sse"
+  },
+  {
+    "id": "quickbooks-mcp",
+    "name": "QuickBooks MCP Server",
+    "description": "Accounting software for small business financial management and bookkeeping",
+    "category": "payments",
+    "website": "api.quickbooks.com",
+    "endpoint": "https://api.quickbooks.com/mcp/sse"
+  },
+  {
+    "id": "resend-mcp",
+    "name": "Resend MCP Server",
+    "description": "Developer-first email API for sending transactional and marketing emails",
+    "category": "communication",
+    "website": "api.resend.com",
+    "endpoint": "https://api.resend.com/mcp/v1"
+  },
+  {
+    "id": "retool-mcp",
+    "name": "Retool MCP Server",
+    "description": "Low-code platform for building internal tools and business applications",
+    "category": "development",
+    "website": "api.retool.com",
+    "endpoint": "https://api.retool.com/mcp/sse"
+  },
+  {
+    "id": "salesforce-mcp",
+    "name": "Salesforce MCP Server",
+    "description": "Customer relationship management platform for sales, service, and marketing",
+    "category": "productivity",
+    "website": "api.salesforce.com",
+    "endpoint": "https://api.salesforce.com/services/mcp/sse"
+  },
+  {
+    "id": "sendgrid-mcp",
+    "name": "SendGrid MCP Server",
+    "description": "Email delivery service for transactional and marketing email campaigns",
+    "category": "communication",
+    "website": "api.sendgrid.com",
+    "endpoint": "https://api.sendgrid.com/mcp/sse"
+  },
+  {
+    "id": "seolinkmap-mcp",
+    "name": "SEOLinkMap MCP Server",
+    "description": "Statistical SEO analysis via MCP - built on open source seolinkmap/waasup framework",
+    "category": "data-analysis",
+    "website": "https://seolinkmap.com",
+    "endpoint": "https://seolinkmap.com/mcp"
+  },
+  {
+    "id": "shopify-mcp",
+    "name": "Shopify MCP Server",
+    "description": "E-commerce platform for creating and managing online stores and retail operations",
+    "category": "payments",
+    "website": "mcp.shopify.com",
+    "endpoint": "https://mcp.shopify.com/mcp"
+  },
+  {
+    "id": "slack-mcp",
+    "name": "Slack MCP Server",
+    "description": "Team communication and collaboration platform with channels, messaging, and file sharing",
+    "category": "communication",
+    "website": "https://slack.com/",
+    "endpoint": "wss://slack-mcp.mcp.io"
+  },
+  {
+    "id": "smartsheet-mcp",
+    "name": "Smartsheet MCP Server",
+    "description": "Collaborative work management platform with spreadsheet-like interface",
+    "category": "productivity",
+    "website": "api.smartsheet.com",
+    "endpoint": "https://api.smartsheet.com/mcp/sse"
+  },
+  {
+    "id": "snowflake-mcp",
+    "name": "Snowflake MCP Server",
+    "description": "Cloud data warehouse for storing and analyzing massive amounts of data",
+    "category": "database",
+    "website": "api.snowflake.com",
+    "endpoint": "https://api.snowflake.com/mcp/v1/sse"
+  },
+  {
+    "id": "spotify-mcp",
+    "name": "Spotify MCP Server",
+    "description": "Music streaming service with playlist management and recommendation features",
+    "category": "productivity",
+    "website": "api.spotify.com",
+    "endpoint": "https://api.spotify.com/mcp/sse"
+  },
+  {
+    "id": "square-mcp",
+    "name": "Square MCP Server",
+    "description": "Payment processing and point-of-sale solutions for businesses",
+    "category": "payments",
+    "website": "connect.squareup.com",
+    "endpoint": "https://connect.squareup.com/mcp/sse"
+  },
+  {
+    "id": "stability-mcp",
+    "name": "Stability AI MCP Server",
+    "description": "AI image generation platform with Stable Diffusion and other models",
+    "category": "ai-ml",
+    "website": "api.stability.ai",
+    "endpoint": "https://api.stability.ai/mcp/sse"
+  },
+  {
+    "id": "stripe-mcp",
+    "name": "Stripe MCP Server",
+    "description": "Process payments, manage subscriptions, and handle billing through Stripe",
+    "category": "payments",
+    "website": "https://stripe.com",
+    "endpoint": "wss://mcp.stripe.com/v1"
+  },
+  {
+    "id": "supabase-mcp",
+    "name": "Supabase MCP Server",
+    "description": "Open source Firebase alternative with PostgreSQL database and real-time subscriptions",
+    "category": "database",
+    "website": "mcp.supabase.com",
+    "endpoint": "https://mcp.supabase.com/sse"
+  },
+  {
+    "id": "tavily-mcp",
+    "name": "Tavily MCP Server",
+    "description": "AI-powered search API optimized for LLMs and RAG applications",
+    "category": "ai-ml",
+    "website": "api.tavily.com",
+    "endpoint": "https://api.tavily.com/mcp/sse"
+  },
+  {
+    "id": "twilio-mcp",
+    "name": "Twilio MCP Server",
+    "description": "SMS, voice, video, and messaging API platform for global communications",
+    "category": "communication",
+    "website": "https://twilio.com/",
+    "endpoint": "wss://twilio-mcp.mcp.io"
+  },
+  {
+    "id": "uber-mcp",
+    "name": "Uber MCP Server",
+    "description": "Ride-sharing and delivery service platform integration",
+    "category": "productivity",
+    "website": "api.uber.com",
+    "endpoint": "https://api.uber.com/mcp/v1/sse"
+  },
+  {
+    "id": "upwork-mcp",
+    "name": "Upwork MCP Server",
+    "description": "Freelance marketplace for hiring and managing remote talent",
+    "category": "productivity",
+    "website": "api.upwork.com",
+    "endpoint": "https://api.upwork.com/mcp/sse"
+  },
+  {
+    "id": "wix-mcp",
+    "name": "Wix MCP Server",
+    "description": "Website builder and hosting platform with drag-and-drop design tools",
+    "category": "productivity",
+    "website": "api.wix.com",
+    "endpoint": "https://api.wix.com/mcp/sse"
+  },
+  {
+    "id": "youtube-mcp",
+    "name": "YouTube MCP Server",
+    "description": "Video sharing platform with content management and analytics features",
+    "category": "productivity",
+    "website": "api.youtube.com",
+    "endpoint": "https://api.youtube.com/mcp/v1/sse"
+  },
+  {
+    "id": "zapier-mcp",
+    "name": "Zapier MCP Server",
+    "description": "Automation platform connecting thousands of apps and services without code",
+    "category": "productivity",
+    "website": "mcp.zapier.com",
+    "endpoint": "https://mcp.zapier.com/api/mcp/mcp"
+  },
+  {
+    "id": "zoom-mcp",
+    "name": "Zoom MCP Server",
+    "description": "Video conferencing platform for meetings, webinars, and virtual events",
+    "category": "communication",
+    "website": "api.zoom.us",
+    "endpoint": "https://api.zoom.us/mcp/v1/sse"
+  }
+]
