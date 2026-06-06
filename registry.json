@@ -472,6 +472,14 @@
     "endpoint": "https://api.wix.com/mcp/sse"
   },
   {
+    "id": "xquik-mcp",
+    "name": "Xquik MCP Server",
+    "description": "X/Twitter data, automation, and workflow tools through MCP",
+    "category": "data-analysis",
+    "website": "xquik.com",
+    "endpoint": "https://xquik.com/mcp"
+  },
+  {
     "id": "youtube-mcp",
     "name": "YouTube MCP Server",
     "description": "Video sharing platform with content management and analytics features",
