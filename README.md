@@ -62,6 +62,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 | [Meta Ads](https://pipeboard.co)     | Manage and analyze Meta (Facebook) Ads campaigns through MCP                        | `https://mcp.pipeboard.co/meta-ads-mcp` |
 | [Mixpanel](https://mcp.mixpanel.com) | Product analytics platform for tracking user interactions and behavior              | `https://mcp.mixpanel.com/mcp`          |
 | [SEOLinkMap](https://seolinkmap.com) | Statistical SEO analysis via MCP - built on open source seolinkmap/waasup framework | `https://seolinkmap.com/mcp`            |
+| [Xquik](https://xquik.com)           | X/Twitter data, automation, and workflow tools through MCP                          | `https://xquik.com/mcp`                 |
 
 ## Database
 
