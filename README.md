@@ -25,6 +25,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 
 | Name                                       | Description                                                                         | Endpoint                            |
 |--------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|
+| [Agentage Memory](https://agentage.io)     | One memory for every AI - shared, files-first markdown memory layer accessible to Claude, Cursor and ChatGPT via MCP. | `https://memory.agentage.io/mcp`    |
 | [Audioscrape](https://mcp.audioscrape.com) | RAG-as-a-Service platform for audio transcription, analysis, and intelligent search | `https://mcp.audioscrape.com`       |
 | [Dappier](https://api.dappier.com)         | Real-time AI processing and machine learning model deployment platform              | `https://api.dappier.com/mcp/rtai`  |
 | [Needle](https://mcp.needle-ai.com)        | RAG-as-a-service platform for semantic search and document understanding            | `https://mcp.needle-ai.com/mcp`     |

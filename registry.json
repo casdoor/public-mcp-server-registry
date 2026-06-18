@@ -1,5 +1,13 @@
 [
   {
+    "id": "agentage-memory",
+    "name": "Agentage Memory",
+    "description": "One memory for every AI - a shared, files-first markdown memory layer Claude, Cursor and ChatGPT read and write via MCP.",
+    "category": "ai-ml",
+    "website": "agentage.io",
+    "endpoint": "https://memory.agentage.io/mcp"
+  },
+  {
     "id": "apify-mcp",
     "name": "Apify MCP Server",
     "description": "Web scraping and automation platform for extracting data from websites",
