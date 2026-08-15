@@ -56,6 +56,14 @@
     "endpoint": "https://observability.mcp.cloudflare.com/sse"
   },
   {
+    "id": "palisade-dmarc-agent",
+    "name": "Palisade DMARC Agent",
+    "description": "AI-powered management for DMARC, SPF, DKIM, BIMI, MTA-STS, DNS, and email authentication",
+    "category": "monitoring",
+    "website": "https://palisade.email",
+    "endpoint": "https://api.palisade.email/mcp"
+  },
+  {
     "id": "cloudflare-workers-mcp",
     "name": "Cloudflare Workers MCP Server",
     "description": "Deploy and manage serverless functions on Cloudflare's global edge network",
