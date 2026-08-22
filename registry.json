@@ -320,6 +320,14 @@
     "endpoint": "https://api.pinterest.com/mcp/sse"
   },
   {
+    "id": "pocket-drives-mcp",
+    "name": "Pocket Drives MCP Server",
+    "description": "Search peer-to-peer luxury, exotic, and EV rentals from independent hosts",
+    "category": "productivity",
+    "website": "pocketdrives.ai",
+    "endpoint": "https://pocketdrives.ai/mcp"
+  },
+  {
     "id": "quickbooks-mcp",
     "name": "QuickBooks MCP Server",
     "description": "Accounting software for small business financial management and bookkeeping",
