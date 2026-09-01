@@ -27,6 +27,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 |--------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|
 | [Audioscrape](https://mcp.audioscrape.com) | RAG-as-a-Service platform for audio transcription, analysis, and intelligent search | `https://mcp.audioscrape.com`       |
 | [Dappier](https://api.dappier.com)         | Real-time AI processing and machine learning model deployment platform              | `https://api.dappier.com/mcp/rtai`  |
+| [Magic Hour](https://magichour.ai/mcp)     | Create and edit AI video, images, GIFs, and audio through a hosted MCP server        | `https://mcp.magichour.ai/`         |
 | [Needle](https://mcp.needle-ai.com)        | RAG-as-a-service platform for semantic search and document understanding            | `https://mcp.needle-ai.com/mcp`     |
 | [OpenAI](https://openai.com)               | Access GPT models, DALL-E, Whisper, and other OpenAI AI capabilities via MCP        | `wss://openai-mcp.mcp.io`           |
 | [Perplexity](https://api.perplexity.ai)    | AI-powered search engine with real-time web information retrieval                   | `https://api.perplexity.ai/mcp/sse` |
