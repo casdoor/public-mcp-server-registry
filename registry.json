@@ -208,6 +208,14 @@
     "endpoint": "wss://linear-mcp.mcp.io"
   },
   {
+    "id": "magic-hour-mcp",
+    "name": "Magic Hour MCP Server",
+    "description": "Create and edit AI video, images, GIFs, and audio through Magic Hour's hosted MCP server",
+    "category": "ai-ml",
+    "website": "https://magichour.ai/mcp",
+    "endpoint": "https://mcp.magichour.ai/"
+  },
+  {
     "id": "mercadolibre-mcp",
     "name": "Mercado Libre MCP Server",
     "description": "Latin America's largest e-commerce and payments ecosystem",
