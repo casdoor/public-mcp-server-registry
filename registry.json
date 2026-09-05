@@ -60,7 +60,7 @@
     "name": "Palisade DMARC Agent",
     "description": "AI-powered management for DMARC, SPF, DKIM, BIMI, MTA-STS, DNS, and email authentication",
     "category": "monitoring",
-    "website": "https://palisade.email",
+    "website": "https://www.palisade.email/mcp",
     "endpoint": "https://api.palisade.email/mcp"
   },
   {
