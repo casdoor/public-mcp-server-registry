@@ -392,6 +392,14 @@
     "endpoint": "https://mcp.shopify.com/mcp"
   },
   {
+    "id": "skyaccess-mcp",
+    "name": "SkyAccess MCP Server",
+    "description": "Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.",
+    "category": "productivity",
+    "website": "https://skyaccess.com",
+    "endpoint": "https://mcp.skyaccess.com/mcp"
+  },
+  {
     "id": "slack-mcp",
     "name": "Slack MCP Server",
     "description": "Team communication and collaboration platform with channels, messaging, and file sharing",

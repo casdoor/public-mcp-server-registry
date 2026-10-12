@@ -122,6 +122,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 | [Pinterest](https://api.pinterest.com)         | Visual discovery platform for finding ideas, recipes, style inspiration and more              | `https://api.pinterest.com/mcp/sse`           |
 | [Rube (Composio)](https://composio.dev)        | Connects AI chat tools to more than 500 business and productivity applications                | `https://rube.composio.dev/mcp`               |
 | [Salesforce](https://api.salesforce.com)       | Customer relationship management platform for sales, service, and marketing                   | `https://api.salesforce.com/services/mcp/sse` |
+| [SkyAccess](https://skyaccess.com)             | Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. | `https://mcp.skyaccess.com/mcp`               |
 | [Smartsheet](https://api.smartsheet.com)       | Collaborative work management platform with spreadsheet-like interface                        | `https://api.smartsheet.com/mcp/sse`          |
 | [Spotify](https://api.spotify.com)             | Music streaming service with playlist management and recommendation features                  | `https://api.spotify.com/mcp/sse`             |
 | [Uber](https://api.uber.com)                   | Ride-sharing and delivery service platform integration                                        | `https://api.uber.com/mcp/v1/sse`             |
