@@ -40,6 +40,14 @@
     "endpoint": "https://mcp.canva.com/mcp"
   },
   {
+    "id": "carejobs-mcp",
+    "name": "CareJobs Healthcare Jobs MCP Server",
+    "description": "Search 170,000+ open US healthcare jobs read daily from 270 hospitals' career sites, with posted pay. Free, read-only, no API key",
+    "category": "productivity",
+    "website": "https://carejobs.now",
+    "endpoint": "https://carejobs.now/api/mcp"
+  },
+  {
     "id": "claude-desktop-mcp",
     "name": "Claude Desktop MCP Server",
     "description": "Local MCP server integration for Claude Desktop application",
