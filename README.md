@@ -120,6 +120,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 | [HubSpot](https://app.hubspot.com)             | Inbound marketing, sales, and CRM platform for growing businesses                             | `https://app.hubspot.com/mcp/v1/http`         |
 | [Kiwi.com](https://kiwi.com)                   | Search and book flights directly from your AI assistant using Kiwi.com's flight search engine | `https://mcp.kiwi.com`                        |
 | [Linear](https://linear.app)                   | Project management and issue tracking for software teams                                      | `wss://linear-mcp.mcp.io`                     |
+| [MEDIAPRONET](https://mediapronet.com)         | Search newly launched startups, SaaS and AI tools listed on MEDIAPRONET, with alternatives    | `https://mediapronet.com/api/mcp`             |
 | [Monday.com](https://api.monday.com)           | Work operating system for managing projects, workflows, and team collaboration                | `https://api.monday.com/mcp/sse`              |
 | [NeverApply](https://neverapply.co)            | Search and match jobs, tailor resumes, prep for interviews and apply with your approval       | `https://neverapply.co/mcp`                   |
 | [Notion](https://notion.so)                    | All-in-one workspace for notes, docs, and collaboration                                       | `wss://notion-mcp.mcp.io`                     |
