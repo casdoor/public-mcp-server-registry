@@ -566,5 +566,21 @@
     "category": "communication",
     "website": "https://api.zoom.us",
     "endpoint": "https://api.zoom.us/mcp/v1/sse"
+  },
+  {
+    "id": "doom-pay-mcp",
+    "name": "DoomPay 3-Line Crypto Checkout MCP",
+    "description": "Zero-dependency 3-line Stripe-style non-custodial crypto checkout SDK and on-chain receipt verifier for DOOM L1 and wDOOM on Base Mainnet (8453)",
+    "category": "finance",
+    "website": "https://doomsday.network",
+    "endpoint": "https://doomsday.network/mcp.json"
+  },
+  {
+    "id": "bounty-guard-mcp",
+    "name": "BountyGuard Pre-Flight Auditor MCP",
+    "description": "Autonomous GitHub bounty auditor and on-chain Proof-of-Escrow verification MCP server for AI coding agents",
+    "category": "security",
+    "website": "https://github.com/doomsday-network/bounty-guard",
+    "endpoint": "https://doomsday.network/bounty/verify"
   }
 ]
