@@ -80,6 +80,14 @@
     "endpoint": "https://bindings.mcp.cloudflare.com/sse"
   },
   {
+    "id": "codetrendy-mcp",
+    "name": "CodeTrendy MCP Server",
+    "description": "Search the CodeTrendy directory of startups, SaaS and AI tools, with alternatives and trends",
+    "category": "productivity",
+    "website": "https://codetrendy.com",
+    "endpoint": "https://codetrendy.com/api/mcp"
+  },
+  {
     "id": "composio-rube",
     "name": "Rube",
     "description": "It connects AI chat tools to more than 500 business and productivity applications",

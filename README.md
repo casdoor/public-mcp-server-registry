@@ -112,6 +112,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 | [Canva](https://mcp.canva.com)                 | Design platform for creating graphics, presentations, social media content and more           | `https://mcp.canva.com/mcp`                   |
 | [CareJobs.Now](https://carejobs.now)           | Search open US healthcare jobs and posted pay from hospital and care employer career sites    | `https://carejobs.now/api/mcp`                |
 | [Claude Desktop](https://anthropic.com)        | Local MCP server integration for Claude Desktop application                                   | `claude://settings/modelcontextprotocol`      |
+| [CodeTrendy](https://codetrendy.com)           | Search the CodeTrendy directory of startups, SaaS and AI tools, with alternatives and trends  | `https://codetrendy.com/api/mcp`              |
 | [Figma](https://www.figma.com)                 | Collaborative design tool for creating user interfaces, prototypes, and design systems        | `https://www.figma.com/api/mcp`               |
 | [Find-A-Domain](https://api.findadomain.dev)   | Domain name search and availability checking service for finding the perfect domain           | `https://api.findadomain.dev/mcp`             |
 | [Google Calendar](https://calendar.google.com) | Manage events, meetings, and schedules with Google Calendar integration                       | `https://calendar.google.com/api/mcp/mcp`     |
