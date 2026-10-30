@@ -46,6 +46,7 @@ A curated list of public [Model Context Protocol](https://modelcontextprotocol.i
 
 | Name                                               | Description                                                                              | Endpoint                                  |
 |----------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------|
+| [CallMeMCP](https://callmemcp.com)                 | Agents call or text your own phone and get your spoken answer back as text (paid app)    | `https://callmemcp.com/mcp`               |
 | [Discord](https://mcp.discord.com)                 | Community chat platform with voice, video, and text communication for gaming and teams   | `https://mcp.discord.com/api/v1`          |
 | [Gmail](https://gmail.google.com)                  | Email service with advanced search, filtering, and organization capabilities             | `https://gmail.google.com/api/mcp/mcp`    |
 | [Microsoft Teams](https://api.teams.microsoft.com) | Business communication platform with chat, video meetings, and file collaboration        | `https://api.teams.microsoft.com/mcp/mcp` |

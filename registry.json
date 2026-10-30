@@ -32,6 +32,14 @@
     "endpoint": "https://mcp.audioscrape.com"
   },
   {
+    "id": "call-me-mcp",
+    "name": "CallMeMCP Server",
+    "description": "Agents call or text your own phone and get your spoken answer back as text (paid app)",
+    "category": "communication",
+    "website": "https://callmemcp.com",
+    "endpoint": "https://callmemcp.com/mcp"
+  },
+  {
     "id": "canva-mcp",
     "name": "Canva MCP Server",
     "description": "Design platform for creating graphics, presentations, social media content and more",
