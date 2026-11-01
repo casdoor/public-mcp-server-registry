@@ -112,6 +112,14 @@
     "endpoint": "https://dchub.cloud/mcp"
   },
   {
+    "id": "didlogic-mcp",
+    "name": "didlogic MCP Server",
+    "description": "Manage didlogic phone numbers, SIP accounts, call routing, SMS, calls and billing via AI assistants.",
+    "category": "communication",
+    "website": "https://mcp.didlogic.com",
+    "endpoint": "https://mcp.didlogic.com/mcp"
+  },
+  {
     "id": "discord-mcp",
     "name": "Discord MCP Server",
     "description": "Community chat platform with voice, video, and text communication for gaming and teams",
