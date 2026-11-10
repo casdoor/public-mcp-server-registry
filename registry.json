@@ -566,5 +566,13 @@
     "category": "communication",
     "website": "https://api.zoom.us",
     "endpoint": "https://api.zoom.us/mcp/v1/sse"
+  },
+  {
+    "id": "datacircle",
+    "name": "Datacircle",
+    "description": "Find the best GTM APIs. Open to anyone, with no key. Lists the GTM APIs and finds their plans by API, provider or price.",
+    "category": "data-analysis",
+    "website": "https://datacircle.dev",
+    "endpoint": "https://api.datacircle.dev/mcp"
   }
 ]
