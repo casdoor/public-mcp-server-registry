@@ -64,6 +64,14 @@
     "endpoint": "https://observability.mcp.cloudflare.com/sse"
   },
   {
+    "id": "imagera-mcp",
+    "name": "Imagera MCP Server",
+    "description": "Generate and edit AI images, video, voice and music through Imagera's hosted MCP server, with a cost estimate before each run",
+    "category": "ai-ml",
+    "website": "https://imagera.ai/mcp",
+    "endpoint": "https://mcp.imagera.ai/mcp"
+  },
+  {
     "id": "palisade-dmarc-agent",
     "name": "Palisade DMARC Agent",
     "description": "AI-powered management for DMARC, SPF, DKIM, BIMI, MTA-STS, DNS, and email authentication",
