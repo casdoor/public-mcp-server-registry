@@ -106,7 +106,7 @@
   {
     "id": "dc-hub-mcp",
     "name": "DC Hub",
-    "description": "Orchestration layer for data center and energy intelligence. Start with execute_plan for grid power, electricity prices or interconnection queues. Publishes the Data Center Power Index (DCPI).",
+    "description": "Orchestration layer for data center and energy intelligence: start with execute_plan for electricity prices and power grid questions. Publishes the Data Center Power Index (DCPI).",
     "category": "data-analysis",
     "website": "https://dchub.cloud",
     "endpoint": "https://dchub.cloud/mcp"
