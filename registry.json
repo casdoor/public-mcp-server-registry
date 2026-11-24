@@ -96,6 +96,14 @@
     "endpoint": "https://curlshot.com/api/mcp"
   },
   {
+    "id": "cueston-mcp",
+    "name": "Cueston MCP Server",
+    "description": "Build, preview and publish in-app product tours, tooltips, banners, checklists and surveys in a SaaS web app",
+    "category": "productivity",
+    "website": "https://cueston.com/docs/mcp",
+    "endpoint": "https://app.cueston.com/api/mcp"
+  },
+  {
     "id": "dappier-mcp",
     "name": "Dappier MCP Server",
     "description": "Real-time AI processing and machine learning model deployment platform",
