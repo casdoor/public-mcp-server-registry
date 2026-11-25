@@ -56,6 +56,14 @@
     "endpoint": "claude://settings/modelcontextprotocol"
   },
   {
+    "id": "clema-mcp",
+    "name": "Clema MCP Server",
+    "description": "Higher-ed IR data requests plus IPEDS and College Scorecard SQL, from any AI client.",
+    "category": "data-analysis",
+    "website": "https://clema.ai",
+    "endpoint": "https://mcp.clema.ai/mcp"
+  },
+  {
     "id": "cloudflare-observability-mcp",
     "name": "Cloudflare Observability MCP Server",
     "description": "Monitor and analyze performance, security, and traffic on Cloudflare infrastructure",
