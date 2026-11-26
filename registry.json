@@ -240,6 +240,14 @@
     "endpoint": "https://mcp.magichour.ai/"
   },
   {
+    "id": "mediapronet-mcp",
+    "name": "MEDIAPRONET MCP Server",
+    "description": "Search newly launched startups, SaaS and AI tools listed on MEDIAPRONET, with alternatives",
+    "category": "productivity",
+    "website": "https://mediapronet.com",
+    "endpoint": "https://mediapronet.com/api/mcp"
+  },
+  {
     "id": "mercadolibre-mcp",
     "name": "Mercado Libre MCP Server",
     "description": "Latin America's largest e-commerce and payments ecosystem",
